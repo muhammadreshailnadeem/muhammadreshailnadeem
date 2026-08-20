@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammad Reshail Nadeem 👋
 
-<!--
-**muhammadreshailnadeem/muhammadreshailnadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Currently learning Flutter App Development  
+🗄️ Familiar with SQL and Database Systems  
+🚀 Interested in software development and building practical projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- SQL
+- MySQL
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+
+## 🌱 Currently Learning
+
+- Flutter App Development
+
+## 📂 Projects
+
+- FoodEase – Online Food Delivery Management System
+
+## 🎯 Goals
+
+- Improve my programming and software development skills
+- Build practical real-world projects
+- Gain experience through projects and internships
+- Continue learning software development technologies
+
+---
+
+⭐ Thanks for visiting my profile!
